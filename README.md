@@ -14,17 +14,6 @@ The code is designed to fetch the dataset automatically via the
 following URL:
 <http://curtis.ml.cmu.edu/datasets/hotpot/hotpot_dev_distractor_v1.json>
 
-## Project Structure
-
-The folder structure should look like this:
-
-    ├── README.md
-    ├── nlp_project.ipynb
-    └── results/
-        ├── accuracy_plot.png
-        ├── coherence_plot.png
-        └── experiment_results.json
-
 ## How to run
 
 1.  Go to [colab.research.google.com](colab.research.google.com).
